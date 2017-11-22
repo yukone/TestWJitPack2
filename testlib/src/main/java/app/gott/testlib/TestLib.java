@@ -13,6 +13,6 @@ public class TestLib {
 
     public String GetTestLib()
     {
-        return "Test";
+        return "Test 1.1";
     }
 }
